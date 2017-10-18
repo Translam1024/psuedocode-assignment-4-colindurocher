@@ -1,0 +1,10 @@
+The game is War. they way you play war is you and another person split the deck equally. each turn both players reveal the top card of
+there decks. 
+if :
+  your card is higher then you take the cards. ;
+else if :
+  they take the cards. ;
+else :
+  the cards are equal then it is a "war".;
+both players put a face down card and a face up card form the top of your deck. the highest face up card wins and takes all six cads.
+the game is over when on player is out of cards.
