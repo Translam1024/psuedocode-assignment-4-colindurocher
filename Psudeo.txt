@@ -1,4 +1,5 @@
 The game is War.
+Rules
 The way you play war is all players split the deck equally.
 Each turn all players reveal the top card of there decks. 
 The person with the highest card takes the card
@@ -6,5 +7,28 @@ if  the cards are equal ;
   then it is a "war".
 The players with tied cards put a face down card form the top of your deck.
 Then a face up card form the top of your deck. 
-the highest face up card wins and takes all six cards.
-the game is over when on player is out of cards.
+The highest face up card wins and takes all six cards.
+The game is over when on player is out of cards.
+
+Turns
+Each player gets equal cards in there deack
+While no player has 52 cards
+  Each player plays one card from there deck.
+  if your card is highest;
+    take the cards.
+  else if some else has the highest card;
+    they take the cards.
+  else atleast 2 players have cards with the same value;
+    a 'war' starts.
+    each player in the war plays on card face down.
+    then on card face up.
+    if your card is highest;
+      take the cards.
+    else if some else has the highest card;
+      they take the cards.
+    repeat;
+if you have 52 cards you win
+  you win.
+else some one else has 52 cards
+  they win.
+  you lose.
