@@ -1,4 +1,4 @@
-The game is War.
+The game is called War.
 Rules
 The way you play war is all players split the deck equally.
 Each turn all players reveal the top card of there decks. 
